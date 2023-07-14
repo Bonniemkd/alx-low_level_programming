@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E ScFILE -o
+gcc -E "$CFILE" -o "$OUTPUT_FILE"
